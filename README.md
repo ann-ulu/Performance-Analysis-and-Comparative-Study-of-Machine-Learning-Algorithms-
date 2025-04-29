@@ -40,6 +40,5 @@ The classification models revealed critical insights into the trade-offs between
 
 ## Repository Contents
 - Presentation Slide (`ML_analysis.pptx`)
-- Preprocessed datasets *(if included)*
-- Python notebooks/scripts *(if included)*
+
 
